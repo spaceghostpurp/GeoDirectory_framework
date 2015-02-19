@@ -1,0 +1,1666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoDirectory Framework 1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-14 10:42-0000\n"
+"PO-Revision-Date: 2014-09-14 10:42-0000\n"
+"Last-Translator: Stiofan <info@geotheme.com>\n"
+"Language-Team: GeoDirectory <info@wpgeodirectory.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_n_noop:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#: 404.php:23
+msgid "This is the 404.php template."
+msgstr ""
+
+#: archive.php:8
+msgid "Posts Categorized:"
+msgstr ""
+
+#: archive.php:14
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:23
+msgid "Posts By:"
+msgstr ""
+
+#: archive.php:29
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:35
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:41
+msgid "Yearly Archives:"
+msgstr ""
+
+#: archive.php:54
+#, php-format
+msgid "Posted <time class=\"updated\" datetime=\"%1$s\" >%2$s</time> by <span class=\"author\">%3$s</span> <span class=\"amp\">&</span> filed under %4$s."
+msgstr ""
+
+#: archive.php:54
+#: functions.php:422
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:70
+#: full-width.php:103
+#: index.php:31
+#: page.php:49
+#: single.php:29
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: archive.php:75
+#: full-width.php:113
+#: index.php:36
+#: page.php:54
+#: single.php:34
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: archive.php:80
+msgid "This is the error message in the archive.php template."
+msgstr ""
+
+#: comments.php:16
+#: index.php:19
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:16
+#: index.php:19
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: comments.php:16
+#: index.php:19
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:35
+msgid "Footer Links"
+msgstr ""
+
+#: full-width.php:73
+#: page.php:34
+msgid "Pages:"
+msgstr ""
+
+#: full-width.php:123
+#: page.php:59
+msgid "This is the error message in the page.php template."
+msgstr ""
+
+#: functions.php:233
+msgid "600px by 150px"
+msgstr ""
+
+#: functions.php:234
+msgid "300px by 100px"
+msgstr ""
+
+#: functions.php:262
+msgid "GD Blog Details"
+msgstr ""
+
+#: functions.php:263
+#: functions.php:273
+#: functions.php:283
+msgid "The first (primary) sidebar."
+msgstr ""
+
+#: functions.php:272
+msgid "GD Blog Listing"
+msgstr ""
+
+#: functions.php:282
+msgid "GD Page Details"
+msgstr ""
+
+#: functions.php:293
+msgid "GD Footer 1"
+msgstr ""
+
+#: functions.php:294
+msgid "The first footer"
+msgstr ""
+
+#: functions.php:305
+msgid "GD Footer 2"
+msgstr ""
+
+#: functions.php:306
+msgid "The second footer"
+msgstr ""
+
+#: functions.php:317
+msgid "GD Footer 3"
+msgstr ""
+
+#: functions.php:318
+msgid "The third footer"
+msgstr ""
+
+#: functions.php:329
+msgid "GD Footer 4"
+msgstr ""
+
+#: functions.php:330
+msgid "The forth footer"
+msgstr ""
+
+#: functions.php:340
+msgid "GD Header Right"
+msgstr ""
+
+#: functions.php:341
+msgid "Right side of header"
+msgstr ""
+
+#: functions.php:351
+msgid "GD Admin Bar Left"
+msgstr ""
+
+#: functions.php:352
+msgid "Left side of admin bar"
+msgstr ""
+
+#: functions.php:361
+msgid "GD Admin Bar Right"
+msgstr ""
+
+#: functions.php:362
+msgid "Right side of admin bar"
+msgstr ""
+
+#: functions.php:420
+#, php-format
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: functions.php:420
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:428
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: gdf_update.php:60
+#: gdf_update.php:61
+msgid "Login details for GeoDirectory failed! Please check GeoDirectory>Auto Updates and that your membership is active."
+msgstr ""
+
+#: index.php:12
+#: search.php:15
+#, php-format
+msgid "Posted <time class=\"updated\" datetime=\"%1$s\">%2$s</time> by <span class=\"author\">%3$s</span>"
+msgstr ""
+
+#: index.php:21
+#, php-format
+msgid "<p class=\"footer-category\">Filed under: %1$s</p>"
+msgstr ""
+
+#: index.php:22
+#: search.php:21
+msgid "Tags:"
+msgstr ""
+
+#: index.php:41
+msgid "This is the error message in the index.php template."
+msgstr ""
+
+#: search.php:7
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:18
+msgid "Read more &raquo;"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Filed under: %1$s"
+msgstr ""
+
+#: search.php:31
+msgid "Sorry, No Results."
+msgstr ""
+
+#: search.php:36
+msgid "Try your search again."
+msgstr ""
+
+#: search.php:41
+msgid "This is the error message in the search.php template."
+msgstr ""
+
+#: sidebar-blog-details.php:13
+#: sidebar-blog-listing.php:13
+#: sidebar-page-details.php:13
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single.php:39
+msgid "This is the error message in the single.php template."
+msgstr ""
+
+#: admin/options-init.php:138
+msgid "Section via hook"
+msgstr ""
+
+#: admin/options-init.php:139
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: admin/options-init.php:217
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/options-init.php:234
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: admin/options-init.php:235
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/options-init.php:236
+msgid "Tags"
+msgstr ""
+
+#: admin/options-init.php:241
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: admin/options-init.php:241
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: admin/options-init.php:276
+msgid "Homepage not set as GeoDirectory (settings on this page may not work)"
+msgstr ""
+
+#: admin/options-init.php:277
+#, php-format
+msgid "Please set it at GeoDirectoty>Design>Home>Geodirectory home page, <a href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/options-init.php:285
+msgid "Optimal content settings for GeoDirectory."
+msgstr ""
+
+#: admin/options-init.php:286
+msgid "Please set Content to 67% and Sidebars to 30%"
+msgstr ""
+
+#: admin/options-init.php:291
+msgid "Home Settings"
+msgstr ""
+
+#: admin/options-init.php:292
+msgid "GeoDirectory Framework was designed to be used with the GeoDirectory plugin, though it can be used without it.  You can enable and disable widget areas and also style almost any area of your website from here."
+msgstr ""
+
+#: admin/options-init.php:300
+msgid "Warning and Info messages"
+msgstr ""
+
+#: admin/options-init.php:301
+msgid "You can disable warning and info messages."
+msgstr ""
+
+#: admin/options-init.php:317
+msgid "Site Width"
+msgstr ""
+
+#: admin/options-init.php:318
+msgid "Select the maximum layout width"
+msgstr ""
+
+#: admin/options-init.php:319
+#, php-format
+msgid "You can set this to 98% for a nice wide layout (default is 1040px)"
+msgstr ""
+
+#: admin/options-init.php:331
+msgid "GD Home Top Section - Width"
+msgstr ""
+
+#: admin/options-init.php:332
+#, php-format
+msgid "You can set this to be full-width or standard, (you can also set the map widget to be 100% from it's widget)"
+msgstr ""
+
+#: admin/options-init.php:349
+#: library/geodirectory_framework.php:344
+msgid "Header Styling Options"
+msgstr ""
+
+#: admin/options-init.php:355
+msgid "Site Logo"
+msgstr ""
+
+#: admin/options-init.php:358
+msgid "You can upload your site logo here"
+msgstr ""
+
+#: admin/options-init.php:359
+msgid "This will replace your site title and tag line"
+msgstr ""
+
+#: admin/options-init.php:369
+msgid "Site Favicon"
+msgstr ""
+
+#: admin/options-init.php:372
+msgid "You can upload your site favicon.ico here"
+msgstr ""
+
+#: admin/options-init.php:373
+msgid "must be a .ico"
+msgstr ""
+
+#: admin/options-init.php:388
+msgid "Apple device Favicon"
+msgstr ""
+
+#: admin/options-init.php:391
+msgid "You can upload your site apple-touch-icon here"
+msgstr ""
+
+#: admin/options-init.php:392
+msgid "must be 129px x 129px .png"
+msgstr ""
+
+#: admin/options-init.php:416
+msgid "Site Logo Margins"
+msgstr ""
+
+#: admin/options-init.php:417
+msgid "Position your logo"
+msgstr ""
+
+#: admin/options-init.php:418
+msgid "You can position your logo exactly how you want it.(px)"
+msgstr ""
+
+#: admin/options-init.php:429
+msgid "Site Title Text"
+msgstr ""
+
+#: admin/options-init.php:431
+msgid "Specify the title font properties. Only applies to text (if no logo)"
+msgstr ""
+
+#: admin/options-init.php:445
+msgid "Tagline Text Color"
+msgstr ""
+
+#: admin/options-init.php:447
+msgid "Specify the tagline font properties. Only applies to text (if no logo)"
+msgstr ""
+
+#: admin/options-init.php:463
+msgid "Header Background"
+msgstr ""
+
+#: admin/options-init.php:464
+msgid "Pick a background color for the theme header(default: #323944)."
+msgstr ""
+
+#: admin/options-init.php:475
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: admin/options-init.php:476
+msgid "Background for the theme header.(replaces header background)"
+msgstr ""
+
+#: admin/options-init.php:477
+#: admin/options-init.php:520
+#: admin/options-init.php:716
+#: admin/options-init.php:890
+msgid "This is not supported in IE9 or below."
+msgstr ""
+
+#: admin/options-init.php:486
+msgid "Menu Options"
+msgstr ""
+
+#: admin/options-init.php:492
+msgid "Menu Font"
+msgstr ""
+
+#: admin/options-init.php:494
+msgid "Specify the menu font properties."
+msgstr ""
+
+#: admin/options-init.php:509
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/options-init.php:510
+msgid "Select a background color for the menu."
+msgstr ""
+
+#: admin/options-init.php:518
+msgid "Menu Gradient Color Option"
+msgstr ""
+
+#: admin/options-init.php:519
+msgid "Background for the menu."
+msgstr ""
+
+#: admin/options-init.php:531
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: admin/options-init.php:532
+msgid "Select a sub menu background color for the menu."
+msgstr ""
+
+#: admin/options-init.php:541
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: admin/options-init.php:542
+msgid "Select a sub menu border color for the menu."
+msgstr ""
+
+#: admin/options-init.php:549
+msgid "Menu Border Option"
+msgstr ""
+
+#: admin/options-init.php:552
+msgid "Enter the px value for each border, ie: 1"
+msgstr ""
+
+#: admin/options-init.php:570
+msgid "Menu Button Border Option"
+msgstr ""
+
+#: admin/options-init.php:573
+msgid "Enter the px value for the border, ie: 1"
+msgstr ""
+
+#: admin/options-init.php:588
+msgid "Menu Border Radius"
+msgstr ""
+
+#: admin/options-init.php:589
+msgid "top-left and top-right border radius"
+msgstr ""
+
+#: admin/options-init.php:590
+msgid "This sets the corner radius of the menu"
+msgstr ""
+
+#: admin/options-init.php:619
+msgid "Admin Bar's and Mobile options"
+msgstr ""
+
+#: admin/options-init.php:626
+msgid "WordPress Admin Bar"
+msgstr ""
+
+#: admin/options-init.php:628
+msgid "Here you can disable the WP admin bar."
+msgstr ""
+
+#: admin/options-init.php:641
+msgid "GDF Admin Bar"
+msgstr ""
+
+#: admin/options-init.php:643
+msgid "This will enable the GDF admin bar and widget areas, which are good for search and GDF welcome login widgets."
+msgstr ""
+
+#: admin/options-init.php:656
+msgid "Fixed position GDF Admin Bar?"
+msgstr ""
+
+#: admin/options-init.php:658
+msgid "This set the position of the admin bar as fixed."
+msgstr ""
+
+#: admin/options-init.php:671
+msgid "Mobile User Menu"
+msgstr ""
+
+#: admin/options-init.php:673
+msgid "This will show a user menu to be able to login and manage user functions on mobile"
+msgstr ""
+
+#: admin/options-init.php:693
+msgid "Body Styling Options"
+msgstr ""
+
+#: admin/options-init.php:694
+msgid "Background Options"
+msgstr ""
+
+#: admin/options-init.php:702
+msgid "Body Background"
+msgstr ""
+
+#: admin/options-init.php:703
+msgid "Select a background for the theme body."
+msgstr ""
+
+#: admin/options-init.php:714
+msgid "Body Gradient Color Option"
+msgstr ""
+
+#: admin/options-init.php:715
+msgid "Background for the theme body."
+msgstr ""
+
+#: admin/options-init.php:727
+msgid "Content Background Color"
+msgstr ""
+
+#: admin/options-init.php:728
+msgid "Select a background color for the content (default: #FFFFFF)."
+msgstr ""
+
+#: admin/options-init.php:737
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: admin/options-init.php:738
+msgid "Select a background color for the sidebars (default: #FFFFFF)."
+msgstr ""
+
+#: admin/options-init.php:747
+msgid "Button Color"
+msgstr ""
+
+#: admin/options-init.php:748
+msgid "Select a background color for the buttons (default: #f47a20)."
+msgstr ""
+
+#: admin/options-init.php:757
+msgid "Button Hover Color"
+msgstr ""
+
+#: admin/options-init.php:758
+msgid "Select a background color for the buttons on hover (default: #faa51a)."
+msgstr ""
+
+#: admin/options-init.php:767
+msgid "Text Options"
+msgstr ""
+
+#: admin/options-init.php:774
+msgid "Body Font"
+msgstr ""
+
+#: admin/options-init.php:776
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/options-init.php:789
+msgid "Links Color Option"
+msgstr ""
+
+#: admin/options-init.php:792
+msgid "Change the colour of your site links"
+msgstr ""
+
+#: admin/options-init.php:808
+msgid "Body h1 Font"
+msgstr ""
+
+#: admin/options-init.php:810
+msgid "Specify the h1 font properties."
+msgstr ""
+
+#: admin/options-init.php:823
+msgid "Body h2 Font"
+msgstr ""
+
+#: admin/options-init.php:825
+msgid "Specify the h2 font properties."
+msgstr ""
+
+#: admin/options-init.php:838
+msgid "Body h3 Font"
+msgstr ""
+
+#: admin/options-init.php:840
+msgid "Specify the h3 font properties."
+msgstr ""
+
+#: admin/options-init.php:867
+msgid "Footer Styling Options"
+msgstr ""
+
+#: admin/options-init.php:876
+msgid "Footer Background"
+msgstr ""
+
+#: admin/options-init.php:877
+msgid "Select a background for the theme footer."
+msgstr ""
+
+#: admin/options-init.php:888
+msgid "Footer Gradient Color Option"
+msgstr ""
+
+#: admin/options-init.php:889
+msgid "Background for the theme footer."
+msgstr ""
+
+#: admin/options-init.php:901
+msgid "Footer text Color"
+msgstr ""
+
+#: admin/options-init.php:902
+msgid "Select a color for the footer text (default: #FFFFFF)."
+msgstr ""
+
+#: admin/options-init.php:909
+msgid "Enable footer widget areas"
+msgstr ""
+
+#: admin/options-init.php:911
+msgid "Select how many footer widget areas to show.none, one, two, three, four"
+msgstr ""
+
+#: admin/options-init.php:926
+msgid "Copyright text"
+msgstr ""
+
+#: admin/options-init.php:927
+msgid "Enter your copyright text"
+msgstr ""
+
+#: admin/options-init.php:928
+msgid "You can enter HTML here or plain text"
+msgstr ""
+
+#: admin/options-init.php:945
+msgid "Quick Code"
+msgstr ""
+
+#: admin/options-init.php:946
+msgid "Override CSS, Add JS"
+msgstr ""
+
+#: admin/options-init.php:954
+msgid "CSS Code"
+msgstr ""
+
+#: admin/options-init.php:955
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/options-init.php:964
+msgid "JS Code"
+msgstr ""
+
+#: admin/options-init.php:965
+msgid "Paste your JS code here."
+msgstr ""
+
+#: admin/options-init.php:980
+msgid "Please update these options from the \"Auto Update\" page in GeoDirectory main Settings."
+msgstr ""
+
+#: admin/options-init.php:994
+msgid "Allow this theme to be updated from dashboard"
+msgstr ""
+
+#: admin/options-init.php:1014
+msgid "Auto Update"
+msgstr ""
+
+#: admin/options-init.php:1028
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: admin/options-init.php:1029
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: admin/options-init.php:1030
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: admin/options-init.php:1034
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: admin/options-init.php:1041
+#: admin/options-init.php:1091
+#: options/class.redux-plugin.php:415
+msgid "Documentation"
+msgstr ""
+
+#: admin/options-init.php:1057
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options-init.php:1058
+msgid "Import and Export your GeoDirectory Framework settings from file, text or URL."
+msgstr ""
+
+#: admin/options-init.php:1077
+msgid "Theme Information"
+msgstr ""
+
+#: admin/options-init.php:1078
+msgid "<p class=\"description\">GeoDirectory Framework was designed to be used with the GeoDirectory plugin, though it can be used without it. You can enable and disable widget areas and also style almost any area of your website from here.</p>"
+msgstr ""
+
+#: admin/options-init.php:1102
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/options-init.php:1103
+#: admin/options-init.php:1109
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/options-init.php:1108
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/options-init.php:1113
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:202
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:205
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:206
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:207
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:212
+#: admin/tgm/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:213
+#: admin/tgm/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:544
+#: admin/tgm/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1290
+#: admin/tgm/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1312
+#: admin/tgm/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2064
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2065
+#: admin/tgm/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2065
+#: admin/tgm/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2071
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/geodirectory_framework.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: library/geodirectory_framework.php:248
+msgid "The Main Menu"
+msgstr ""
+
+#: library/geodirectory_framework.php:280
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: library/geodirectory_framework.php:331
+msgid "Read "
+msgstr ""
+
+#: library/geodirectory_framework.php:353
+msgid "Logo"
+msgstr ""
+
+#: library/geodirectory_framework.php:361
+msgid "Site Title Color"
+msgstr ""
+
+#: library/geodirectory_framework.php:422
+msgid "GeoDirectory Framework:"
+msgstr ""
+
+#: library/geodirectory_framework.php:422
+msgid "File is not writable: "
+msgstr ""
+
+#: library/geodirectory_framework.php:554
+#: library/geodirectory_framework.php:557
+msgid "Welcome"
+msgstr ""
+
+#: library/geodirectory_framework.php:555
+msgid "Logout"
+msgstr ""
+
+#: library/geodirectory_framework.php:557
+msgid "Guest"
+msgstr ""
+
+#: library/geodirectory_framework.php:558
+msgid "Sign in"
+msgstr ""
+
+#: options/class.redux-plugin.php:308
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: options/class.redux-plugin.php:308
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: options/class.redux-plugin.php:412
+msgid "Repo"
+msgstr ""
+
+#: options/class.redux-plugin.php:413
+msgid "Generator"
+msgstr ""
+
+#: options/class.redux-plugin.php:414
+msgid "Issues"
+msgstr ""
+
+#: options/class.redux-plugin.php:420
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: options/class.redux-plugin.php:422
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: options/ReduxCore/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: options/ReduxCore/framework.php:221
+msgid "Redux Framework"
+msgstr ""
+
+#: options/ReduxCore/framework.php:224
+#: options/ReduxCore/framework.php:227
+#: options/ReduxCore/framework.php:1365
+msgid "Options"
+msgstr ""
+
+#: options/ReduxCore/framework.php:517
+msgid "Dismiss"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1309
+#: options/ReduxCore/framework.php:1310
+#: options/ReduxCore/framework.php:3040
+#: options/ReduxCore/framework.php:3111
+msgid "System Info"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1775
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:436
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1776
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:437
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: options/ReduxCore/framework.php:1777
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: options/ReduxCore/framework.php:1778
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:438
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1779
+msgid "Please Wait"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1912
+msgid "Hints"
+msgstr ""
+
+#: options/ReduxCore/framework.php:1913
+msgid "<p>"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2021
+msgid "Default"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2864
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2926
+msgid "Expand"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2928
+#: options/ReduxCore/framework.php:3161
+msgid "Save Changes"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2930
+#: options/ReduxCore/framework.php:3163
+msgid "Reset Section"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2932
+#: options/ReduxCore/framework.php:3165
+msgid "Reset All"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2935
+#: options/ReduxCore/framework.php:3168
+msgid "Working..."
+msgstr ""
+
+#: options/ReduxCore/framework.php:2953
+msgid "Settings Imported!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2966
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2978
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2985
+msgid "Settings Saved!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2992
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2993
+msgid "error(s) were found!"
+msgstr ""
+
+#: options/ReduxCore/framework.php:2994
+msgid "warning(s) were found!"
+msgstr ""
+
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:469
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:470
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: options/ReduxCore/extensions/customizer/extension_customizer.php:471
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: options/ReduxCore/inc/debug.php:41
+#: options/ReduxCore/inc/debug.php:69
+#: options/ReduxCore/inc/debug.php:76
+#: options/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: options/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:118
+#: options/ReduxCore/inc/fields/color/field_color.php:72
+#: options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: options/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:85
+msgid "Transparent"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:135
+msgid "Background Repeat"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:151
+msgid "Background Clip"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:167
+msgid "Background Origin"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:182
+msgid "Background Size"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:197
+msgid "Background Attachment"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:217
+msgid "Background Position"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:272
+msgid "No media selected"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:306
+msgid "Upload"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/background/field_background.php:312
+msgid "Remove"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:113
+msgid "All"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:126
+msgid "Top"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:133
+msgid "Right"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:140
+msgid "Bottom"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:147
+msgid "Left"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: options/ReduxCore/inc/fields/dimensions/field_dimensions.php:125
+msgid "Width"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/dimensions/field_dimensions.php:141
+msgid "Height"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/dimensions/field_dimensions.php:153
+#: options/ReduxCore/inc/fields/dimensions/field_dimensions.php:154
+msgid "Units"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: options/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from file"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:85
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:93
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:105
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/link_color/field_link_color.php:103
+msgid "Active"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/select/field_select.php:76
+#: options/ReduxCore/inc/fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/select/field_select.php:117
+#: options/ReduxCore/inc/fields/select_image/field_select_image.php:133
+msgid "No items of this type were found."
+msgstr ""
+
+#: options/ReduxCore/inc/fields/slides/field_slides.php:133
+#: options/ReduxCore/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/slides/field_slides.php:135
+#: options/ReduxCore/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/slides/field_slides.php:137
+#: options/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/slides/field_slides.php:168
+#: options/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:163
+msgid "Font family"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Standard Fonts"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:253
+msgid "Backup Font Family"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:273
+#: options/ReduxCore/inc/fields/typography/field_typography.php:277
+msgid "Font style"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:277
+msgid "Style"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:306
+msgid "Font subsets"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Subsets"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Font script"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:324
+#: options/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Text Align"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:348
+#: options/ReduxCore/inc/fields/typography/field_typography.php:349
+msgid "Text Transform"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:378
+msgid "Size"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:394
+msgid "Word Spacing"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Letter Spacing"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:420
+msgid "Font color"
+msgstr ""
+
+#: options/ReduxCore/inc/fields/typography/field_typography.php:762
+msgid "Google Webfonts"
+msgstr ""
+
+#: options/ReduxCore/inc/validation/color/validation_color.php:15
+#: options/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+#: options/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/email/validation_email.php:15
+#: options/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: options/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm-controller.php:138
+#, php-format
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm-controller.php:143
+#, php-format
+msgid "The unknown action has been replaced with \"%s\""
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm-controller.php:158
+#, php-format
+msgid "Automatic action performed: \"%s\""
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr ""
+
+#: options/tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
