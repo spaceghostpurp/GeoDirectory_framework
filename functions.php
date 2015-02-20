@@ -496,7 +496,6 @@ add_filter( 'redux/field/gdf/output_css', 'gdf_output_only_changed', 10, 1 );
 if (!function_exists('gdf_output_only_changed')) {
 function gdf_output_only_changed($field){
 global	$gdf;
-//print_r($gdf);
 if($field['compiler']==''){return $field;}
 
 if($field['id']=='home_top_widget'){$field['compiler']='';}
@@ -510,7 +509,6 @@ if($field['id']=='head-menu-radius'){$field['compiler']='';}
 if($field['type']=='spacing'){
 	if($gdf[$field['id']] == $field['default'] ){$field['compiler']='';}
 }elseif($field['type']=='typography'){
-	//print_r($gdf[$field['id']]	);
 	$changed = false;
 	if($gdf[$field['id']]['font-family'] != $field['default']['font-family']){$changed = true;}
 	if($gdf[$field['id']]['font-weight'] != $field['default']['font-weight']){$changed = true;}
@@ -521,7 +519,6 @@ if($field['type']=='spacing'){
 	if(!$changed){$field['compiler']='';}
 	
 }elseif($field['type']=='background'){
-	//print_r($gdf[$field['id']]	);
 	$changed = false;
 	if(isset($gdf[$field['id']]['background-color']) && $gdf[$field['id']]['background-color'] != $field['default']['background-color'] ){$changed = true;}
 	if(isset($gdf[$field['id']]['background-repeat']) && $gdf[$field['id']]['background-repeat'] !=''){$changed = true;}
@@ -540,14 +537,10 @@ if($field['type']=='spacing'){
 	if($gdf[$field['id']] == $field['default'] ){$field['compiler']='';}
 }
 elseif($field['type']=='switch'){$field['compiler']='';}
-
-//else{echo $field['id'];$field['compiler']='';}
  
-//print_r($field);
 	return $field;
 }
 }
-
 
 function gdf_removeDemoModeLink() { // Be sure to rename this function to something more unique
     if ( class_exists('ReduxFrameworkPlugin') ) {
@@ -558,10 +551,4 @@ function gdf_removeDemoModeLink() { // Be sure to rename this function to someth
     }
 }
 add_action('init', 'gdf_removeDemoModeLink');
-
-
-
-
-
-
 /* DON'T DELETE THIS CLOSING TAG */ ?>

@@ -1,5 +1,5 @@
 <footer class="footer" role="contentinfo">
-  <?php global $gdf; if(!empty($gdf) && $gdf['footer-widgets']){//print_r($gdf);
+  <?php global $gdf; if(!empty($gdf) && $gdf['footer-widgets']){
 			$x = $gdf['footer-widgets'];
 			?>
   
