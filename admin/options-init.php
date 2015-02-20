@@ -72,12 +72,7 @@ if (!class_exists('geodirectory_framework_Redux_Framework_config')) {
           It only runs if a field	set with compiler=>true is changed.
 
          * */
-        function compiler_action($options, $css) {
-            //echo '<h1>The compiler hook has run!';
-            //print_r($options); //Option values
-			//echo '####';
-          //  print_r($css); // Compiler selector CSS values  compiler => array( CSS SELECTORS )
-			
+        function compiler_action($options, $css) {		
 $gdf = $options;		
 $styles = array();
 if(!empty($gdf) && $gdf['home_top_widget']=='0'){$styles[] ="#geodir_wrapper .geodir_full_page{max-width:".$gdf['home_site_width']['width'].";}";}

@@ -399,11 +399,9 @@ function geodirf_customize_save_after($c='')
 {
 
         $values = json_decode( wp_unslash( $_POST['customized'] ), true );
-//print_r($values);exit;
 
 // update site logo
 global $reduxConfig,$gdf;
-//print_r($gdf);exit;
 if($values['geodirf_site_logo']){
 $logo = geodirf_get_image_params( $values['geodirf_site_logo'] );
 if($logo){$reduxConfig->ReduxFramework->set('site_logo', $logo);}
@@ -422,7 +420,6 @@ $reduxConfig->ReduxFramework->set('head-title-color', $gdf['head-title-color']);
 
 if (!function_exists('geodirf_options_save_after')) {
 function geodirf_options_save_after($old_value,$value) { 
-  //print_r($old_value);
 if(!empty($old_value['site_logo']['url']) && $old_value['site_logo']['url']!=$value['site_logo']['url']){
 set_theme_mod( 'geodirf_site_logo', $value['site_logo']['url'] );	
 } 
@@ -451,8 +448,8 @@ add_action( 'admin_notices', 'geodirf_admin_notice' );
 
 if (!function_exists('geodirf_css')) {
 function geodirf_css()
-{ global $gdf;
-//print_r($gdf);
+{
+global $gdf;
 $styles = array();
 if(!empty($gdf) && $gdf['home_top_widget']=='0'){$styles[] ="#geodir_wrapper .geodir_full_page{max-width:1040px;}";}
 
