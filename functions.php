@@ -18,7 +18,7 @@ remove_action( 'geodir_wrapper_close', 'geodir_action_wrapper_close', 10);
 add_action( 'geodir_wrapper_close', 'gdf_action_wrapper_close', 11);
 function gdf_action_wrapper_close(){echo '</div></div><!-- content ends here-->';}
 
-add_action( 'geodir_before_main_content', 'gdf_action_geodir_common', 10);
+//add_action( 'geodir_before_main_content', 'gdf_action_geodir_common', 10);
 function gdf_action_geodir_common(){echo '<div class="clearfix geodir-common">';}
 
 // action for adding the content div opening tag
