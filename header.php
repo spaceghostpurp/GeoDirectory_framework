@@ -6,7 +6,6 @@
 <!--[if gt IE 8]><!--> <html <?php language_attributes(); ?> class="no-js"><!--<![endif]-->
 <head>
 <meta charset="utf-8" />
-<title><?php wp_title('&raquo;', true, 'right'); ?></title>
 <?php // mobile meta (hooray!) ?>
 <meta name="HandheldFriendly" content="True" />
 <meta name="MobileOptimized" content="320" />
