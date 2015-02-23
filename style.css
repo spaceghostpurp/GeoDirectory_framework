@@ -463,9 +463,9 @@ body.page .geodir_full_page div.clearfix:first-child{max-width:100%}
 .geodir-common {
 	margin-top:20px;
 }
-{
-	max-width:none;
-}
+/*{*/
+	/*max-width:none;*/
+/*}*/
 .geodir_full_page .widget, .geodir_full_page .geodir-widget {
 	margin:0px auto;
 	padding:0px;
@@ -508,7 +508,7 @@ h1 {
 }
 .geodir-breadcrumb {
 	padding:0px;
-padding-bottom:
+/*padding-bottom:*/
 }
 .geodir-breadcrumb ul {
 	margin-top:0px;
@@ -1827,7 +1827,7 @@ CUSTOM POST TYPES
 .geodir_custom_posts .geodir_full_page .geodir-search input[type="text"]{width:49%;}
 .geodir_custom_posts .geodir_full_page .geodir-search .geodir_submit_search{width:49%;}
 .geodir_custom_posts .showFilters{width:49%;padding-left: 0px;padding-right: 0px;text-align: center;margin-left: 1%;}
-.geodir_custom_posts .geodir-search select{width:49%%;margin-left: 0px;margin-right: 1%;max-width:100%;}
+.geodir_custom_posts .geodir-search select{width:49%;margin-left: 0px;margin-right: 1%;max-width:100%;}
 /*
 #################################################
 ADVANCED SEARCH FILTERS && CUSTOM POST TYPES

@@ -18,7 +18,7 @@ remove_action( 'geodir_wrapper_close', 'geodir_action_wrapper_close', 10);
 add_action( 'geodir_wrapper_close', 'gdf_action_wrapper_close', 11);
 function gdf_action_wrapper_close(){echo '</div></div><!-- content ends here-->';}
 
-add_action( 'geodir_before_main_content', 'gdf_action_geodir_common', 10);
+//add_action( 'geodir_before_main_content', 'gdf_action_geodir_common', 10);
 function gdf_action_geodir_common(){echo '<div class="clearfix geodir-common">';}
 
 // action for adding the content div opening tag
@@ -107,7 +107,10 @@ function geodirf_ahoy() {
   // launching operation cleanup
   add_action( 'init', 'geodirf_head_cleanup' );
   // A better title
-  add_filter( 'wp_title', 'rw_title', 10, 3 );
+  $version = get_bloginfo('version');
+  if ($version < 4.0 ) {
+      add_filter('wp_title', 'rw_title', 10, 3);
+  }
   // remove WP version from RSS
   add_filter( 'the_generator', 'geodirf_rss_version' );
   // remove pesky injected css for recent comments widget

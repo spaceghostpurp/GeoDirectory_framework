@@ -5,12 +5,11 @@
 <!--[if (IE 8)&!(IEMobile)]><html <?php language_attributes(); ?> class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html <?php language_attributes(); ?> class="no-js"><!--<![endif]-->
 <head>
-<meta charset="utf-8">
-<title><?php wp_title('&raquo;', true, 'right'); ?></title>
+<meta charset="utf-8" />
 <?php // mobile meta (hooray!) ?>
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <?php global $gdf;?>
 <link rel="apple-touch-icon" href="<?php echo $gdf['site_apple_touch_icon']['url']; ?>">
 <link rel="icon" href="<?php echo $gdf['site_favicon']['url']; ?>">
