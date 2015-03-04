@@ -448,7 +448,7 @@ and be up and running in seconds.
 */
 if (!function_exists('geodirf_fonts')) {
 function geodirf_fonts() {
-  wp_register_style('googleFonts', 'http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic');
+  wp_register_style('googleFonts', '//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic');
   wp_enqueue_style( 'googleFonts');
 }
 }
